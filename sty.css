@@ -1,0 +1,121 @@
+body{
+	font-family: 'Rubik', sans-serif;
+	background:white;
+	}
+#top11{
+  overflow: hidden;
+  background-color:white;
+		}
+#allmenu{
+   top:20px;
+  overflow: hidden;
+  background-color:#fdf9f9;
+  height:100px;
+  
+		}
+		/*scarch Element Box*/
+#post10{
+top:145px;
+left:130px;
+~webkit-box-shadow:0 3px 8px rgba(0,0,0,25);
+position:absolute;
+background:white;
+width:550px;
+height:1100px;
+border-radius: 0px 0px 15px 15px;
+padding-left:7px;
+padding-right:10px;
+padding-top:15px
+		}
+/*About scarch Element Box*/
+#post11{
+float:top;	
+padding-top:855px;
+float:left;
+margin-left:595px; 
+~webkit-box-shadow:0 3px 8px rgba(0,0,0,25);
+position:left;
+background:yellow;
+width:620px;
+height:650px;
+border-radius: 0px 0px 15px 15px;
+padding-top:10px
+		}
+		#poimg{
+			float:top;
+			padding-left:0px; 
+			padding-top:20px;
+			
+		}
+#poimg img{
+	float:left;
+	height:40px; /* Country Name Posation And Coloar*/
+	width:135px;
+	padding-left:0px; 
+	padding-top:-20px;
+	size:30px;
+}
+div.info {
+	color:green;
+	float:top;
+	font-size:19px;
+	padding-top:2px;
+	
+}
+div.tit{
+	color:cyan;
+	float:top;
+	font-size:25px;
+	padding-top:2px;
+}
+div.des{
+	color:black;
+	float:top;
+	font-size:18px;
+	padding-top:5px;
+	
+}
+div.boxp{
+~webkit-box-shadow:8px 3px 8px 8px rgba(25,25,25,25);
+background:#F1F7E1;
+border-radius: 15px 15px 15px 15px;
+	
+}
+.query-submit{
+	border-radius: 0px 8px 9px 0px;
+	cursor:pointer;
+	float:left;
+	background:#89CFE9;
+	width:55px;
+	padding:1px 6px;
+	/*float:right;*/
+	/*margin-right:100px;*/
+	margin-left:0px;
+	border:none;
+	border-bottom-color:#B1EBC1;
+	margin-top:2px; 
+	height:41px;
+	}
+	.textbox{
+	background-color:#FFFFFF;
+	float:left;
+	border-radius: 8px 0px 0px 9px;
+	height:40px;             /*scarch bar height*/
+	padding-left:1px 2px;
+	font-size:25px;
+	line-height: 1.42857;
+	background-position:065px;
+	color:#030404;
+	border-color:#B1EBC1;
+	margin-left:0px;
+	width:555px;
+	margin-top:3px;
+	}
+	.border
+   {
+	   width:200px;
+	   height:155px;
+	   border:40px solid rgb(3000,1900,1530);
+	    border-color:cyan;
+   }
+	

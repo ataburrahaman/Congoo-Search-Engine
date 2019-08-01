@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url("bacindex.jpg");
+	background-repeat:no-repeat;
+	background-size:100% ,100%;
+	font-family: 'Rubik', sans-serif;
+	/*background:#F1F9CC;*/
+	
+	}
+.srbox{
+	width:1000px; 
+	height:500px; 
+	float:center; 
+	margin-center:center; 
+	color:#88FFED;
+	margin-top:10px; 
+	}
+.textbox{
+	background-color:#FFFFFF;
+	float:left;
+	border-radius: 8px 0px 0px 9px;
+	height:46px;             //scarch bar height
+	padding:1px 12px;
+	font-size:25px;
+	line-height: 1.42857;
+	background-position:065px;
+	color:#030404;
+	border-color:#B1EBC1;
+	margin-left:180px; 
+	width:575px;
+	margin-top:5px;
+	}
+.query-submit{
+	border-radius: 0px 8px 9px 0px;
+	cursor:pointer;
+	background:#89CFE9;
+	width:75px;
+	padding:1px 6px;
+	float:right;
+	margin-right:170px; 
+	border:none;
+	border-bottom-color:#B1EBC1;
+	margin-top:05px; 
+	height:46px;
+	}
+.wordin{
+	float:right;
+	height:46px; /* Country Name Posation And Coloar*/
+	font-size:40px;
+	width:575px;
+	color:0388BA;
+	margin-right:-70px; 
+	margin-top:-50px;
+}
+.tag{
+	float:right;
+	height:36px; /* tag Name Posation And Coloar*/
+	font-size:24px;
+	width:575px;
+	color:black;
+	margin-right:-320px; 
+	margin-top:-80px;
+	
+}
+.acc{
+	float:right;
+	margin-right:-120px; 
+	margin-top:-80px;
+	
+}
+.mng{
+	float:right;
+	height:46px; /* tag Name Posation And Coloar*/
+	font-size:28px;
+	width:575px;
+	color:black;
+	margin-right:-320px; 
+	margin-top:-80px;
+	
+}
